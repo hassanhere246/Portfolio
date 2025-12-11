@@ -2,7 +2,7 @@ import React from "react";
 import "./Style.css";
 
 // Main Images
-import heroImage from "./assets/1st.jpg"; // Hero Image
+import heroImage from "./assets/hassan1294.jpg"; // Hero Image
 import hsn2 from "./assets/hsn2.jpg";     // About Me Image
 import hsn3 from "./assets/hsn3.jpg";     // Get In Touch Image
 
@@ -104,9 +104,10 @@ const App = () => {
     <img src={hsn3} alt="Get In Touch" />
   </div>
   <div className="contact-info">
-    <span><i className="fas fa-home"></i> House No. 509, 5A, Landhi 5, Karachi, Pakistan</span>
+    <span><i className="fas fa-home"></i> Karachi, Pakistan</span>
     <span><i className="fas fa-phone"></i> Mobile: 0333 337 2204</span>
     <span><i className="fas fa-envelope"></i> Email: hassanhere246@gmail.com</span>
+      <span><i className="fas fa-envelope"></i> Instagram:  coder_syntax1294</span>
   </div>
 </section>
 
